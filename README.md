@@ -17,7 +17,6 @@ To build an end-to-end machine learning pipeline that predicts the number of uni
 ## Project Structure
 
 - `Supply-Chain-Forecasting.ipynb` — Full notebook with all steps
-- `all_forecasts.xlsx` — Forecast output from DeepAR for all time series
 - `series_mapping.xlsx` — Mapping of time series index to Store and Product IDs
 - `final_forecast_output.xlsx` — Final merged output with readable Store/Product/Date and quantile predictions
 
